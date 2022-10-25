@@ -1,21 +1,21 @@
 <h1>Global Information tracker (GIT)</h1>
 <h2>Commands....</h2>
 <h2>Local file to repository</h2>
-****************************************************************************************
-<h3>Create a repository in github.com</h3>
-<h3>Create File</h3>
-<h3>Name the file</h3>
-<h3>Open git bash inside the file</h3>
-<h3>git init</h3>
-<h3>git status</h3>
-<h3>git branch</h3>
-<h3>git add .</h3>
-<h3>git commit -m"Commitment"</h3>
-<h3>git remote add origin "URL of the created repository"</h3>
-<h3>git push origin master/main(branch)</h3>
-<h3>git status</h3>
-<h3>git remote</h3>
-<h3>clear</h3>
-<h3>exit</h3>
+***********************************************************************************************************************************************
+<h4>- Create a repository in github.com</h4>
+<h4>- Create File</h4>
+<h4>- Name the file</h4>
+<h4>- Open git bash inside the file</h4>
+<h4>- git init</h4>
+<h4>- git status</h4>
+<h4>- git branch</h4>
+<h4>- git add .</h4>
+<h4>- git commit -m"Commitment"</h4>
+<h4>- git remote add origin "URL of the created repository"</h4>
+<h4>- git push origin master/main(branch)</h4>
+<h4>- git status</h4>
+<h4>- git remote</h4>
+<h4>- clear</h4>
+<h4>- exit</h4>
 
 <h1>✌</h1>
